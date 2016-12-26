@@ -6935,37 +6935,37 @@
       </template>
     </category>
     <category> 
-      <pattern>* NO TIENES NI IDEA</pattern>
+      <pattern>* NO TENES NI IDEA</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ NO TIENES NI IDEA *</pattern>
+      <pattern>_ NO TENES NI IDEA *</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>NO ENTIENDES</pattern>
+      <pattern>NO ENTENDES</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>NO ENTIENDES *</pattern>
+      <pattern>NO ENTENDES *</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
     </category>
     <category> 
-      <pattern>* NO ENTIENDES</pattern>
+      <pattern>* NO ENTENDES</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ NO ENTIENDES *</pattern>
+      <pattern>_ NO ENTENDES *</pattern>
       <template> 
         <srai>NO SABES NADA</srai>
       </template>
@@ -7013,25 +7013,25 @@
       </template>
     </category>
 	<category> 
-      <pattern>VALE</pattern>
+      <pattern>JOYA</pattern>
       <template> 
         <srai>OK</srai>
       </template>
     </category>
 	<category> 
-      <pattern>VALE *</pattern>
+      <pattern>JOYA *</pattern>
       <template> 
         <srai>OK</srai>
       </template>
     </category>
     <category> 
-      <pattern>* VALE</pattern>
+      <pattern>* JOYA</pattern>
       <template> 
         <srai>OK</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ VALE *</pattern>
+      <pattern>_ JOYA *</pattern>
       <template> 
         <srai>OK</srai>
       </template>
@@ -7265,19 +7265,19 @@
       </template>
     </category>
 	<category> 
-	  <pattern>PIENSAS</pattern>
+	  <pattern>PENSAS</pattern>
       <template> 
         <srai>OPINIÓN</srai>
       </template>
     </category>
 	<category> 
-      <pattern>PIENSAS *</pattern>
+      <pattern>PENSAS *</pattern>
       <template> 
         <srai>OPINIÓN</srai>
       </template>
     </category>
     <category> 
-      <pattern>* PIENSAS</pattern>
+      <pattern>* PENSAS</pattern>
       <template> 
         <srai>OPINIÓN</srai>
       </template>
@@ -7825,133 +7825,133 @@
 	<category> 
       <pattern>QUÉ ENTIENDES *</pattern>
       <template> 
-        <srai>QUÉ ENTIENDES</srai>
+        <srai>QUÉ ENTENDES</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUÉ ENTIENDES</pattern>
+      <pattern>* QUÉ ENTENDES</pattern>
       <template> 
         <srai>QUÉ ENTIENDES</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUÉ ENTIENDES *</pattern>
+      <pattern>_ QUÉ ENTENDES *</pattern>
       <template> 
         <srai>QUÉ ENTIENDES</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE ENTIENDES</pattern>
+      <pattern>QUE ENTENDES</pattern>
       <template> 
-        <srai>QUÉ ENTIENDES</srai>
+        <srai>QUÉ ENTENDES</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE ENTIENDES *</pattern>
+      <pattern>QUE ENTENDES *</pattern>
       <template> 
-        <srai>QUÉ ENTIENDES</srai>
+        <srai>QUÉ ENTENDES</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUE ENTIENDES</pattern>
+      <pattern>* QUE ENTENDES</pattern>
       <template> 
-        <srai>QUÉ ENTIENDES</srai>
+        <srai>QUÉ ENTENDES</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUE ENTIENDES *</pattern>
+      <pattern>_ QUE ENTENDES *</pattern>
       <template> 
-        <srai>QUÉ ENTIENDES</srai>
+        <srai>QUÉ ENTENDES</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUÉ ERES *</pattern>
+      <pattern>QUÉ SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUÉ ERES</pattern>
+      <pattern>* QUÉ SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUÉ ERES *</pattern>
+      <pattern>_ QUÉ SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE ERES</pattern>
+      <pattern>QUE SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE ERES *</pattern>
+      <pattern>QUE SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUE ERES</pattern>
+      <pattern>* QUE SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUE ERES *</pattern>
+      <pattern>_ QUE SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUIÉN ERES</pattern>
+      <pattern>QUIÉN SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUIÉN ERES *</pattern>
+      <pattern>QUIÉN SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUIÉN ERES</pattern>
+      <pattern>* QUIÉN SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUIÉN ERES *</pattern>
+      <pattern>_ QUIÉN SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUIEN ERES</pattern>
+      <pattern>QUIEN SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUIEN ERES *</pattern>
+      <pattern>QUIEN SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUIEN ERES</pattern>
+      <pattern>* QUIEN SOS</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUIEN ERES *</pattern>
+      <pattern>_ QUIEN SOS *</pattern>
       <template> 
-        <srai>QUÉ ERES</srai>
+        <srai>QUÉ SOS</srai>
       </template>
     </category>
 	<!-- ELIMINADOS comodines al final de preguntas genéricas como workaround -->
@@ -8155,135 +8155,135 @@
       </template>
     </category>
     <category> 
-      <pattern>* QUÉ ME RECOMIENDAS</pattern>
+      <pattern>* QUÉ ME RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUÉ ME RECOMIENDAS *</pattern>
+      <pattern>_ QUÉ ME RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE ME RECOMIENDAS</pattern>
+      <pattern>QUE ME RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>	
 	<category> 
-      <pattern>QUE ME RECOMIENDAS *</pattern>
+      <pattern>QUE ME RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUE ME RECOMIENDAS</pattern>
+      <pattern>* QUE ME RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUE ME RECOMIENDAS *</pattern>
+      <pattern>_ QUE ME RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUÉ RECOMIENDAS</pattern>
+      <pattern>QUÉ RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUÉ RECOMIENDAS *</pattern>
+      <pattern>QUÉ RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUÉ RECOMIENDAS</pattern>
+      <pattern>* QUÉ RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUÉ RECOMIENDAS *</pattern>
+      <pattern>_ QUÉ RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>QUE RECOMIENDAS</pattern>
+      <pattern>QUE RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>	
 	<category> 
-      <pattern>QUE RECOMIENDAS *</pattern>
+      <pattern>QUE RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUE RECOMIENDAS</pattern>
+      <pattern>* QUE RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ QUE RECOMIENDAS *</pattern>
+      <pattern>_ QUE RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>	
 	<category> 
-      <pattern>RECOMIENDAS</pattern>
+      <pattern>RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>	
 	<category> 
-      <pattern>RECOMIENDAS *</pattern>
+      <pattern>RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* RECOMIENDAS</pattern>
+      <pattern>* RECOMENDAS</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ RECOMIENDAS *</pattern>
+      <pattern>_ RECOMENDAS *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
       <pattern>RECOMIENDES</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>	
 	<category> 
       <pattern>RECOMIENDES *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
     <category> 
       <pattern>* RECOMIENDES</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
       <pattern>_ RECOMIENDES *</pattern>
       <template> 
-        <srai>QUÉ ME RECOMIENDAS</srai>
+        <srai>QUÉ ME RECOMENDAS</srai>
       </template>
     </category>
 	<category> 
@@ -9378,31 +9378,31 @@
       </template>
     </category>
 	<category> 
-      <pattern>_ VIVO AQUÍ *</pattern>
+      <pattern>_ VIVO ACA *</pattern>
       <template> 
         <srai>SOY DE</srai>
       </template>
     </category>
 	<category> 
-      <pattern>VIVO AQUI</pattern>
+      <pattern>VIVO ACA</pattern>
       <template> 
         <srai>SOY DE</srai>
       </template>
     </category>
 	<category> 
-      <pattern>VIVO AQUI *</pattern>
+      <pattern>VIVO ACA *</pattern>
       <template> 
         <srai>SOY DE</srai>
       </template>
     </category>
     <category> 
-      <pattern>* VIVO AQUI</pattern>
+      <pattern>* VIVO ACA</pattern>
       <template> 
         <srai>SOY DE</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ VIVO AQUI *</pattern>
+      <pattern>_ VIVO ACA *</pattern>
       <template> 
         <srai>SOY DE</srai>
       </template>
@@ -10137,39 +10137,39 @@
       </template>
     </category>
 	<category> 
-      <pattern>Y TÚ *</pattern>
+      <pattern>Y VOS *</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* Y TÚ</pattern>
+      <pattern>* Y VOS</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ Y TÚ *</pattern>
+      <pattern>_ Y VOS *</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>Y TU</pattern>
+      <pattern>Y VOS</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
 	<category> 
-      <pattern>Y TU *</pattern>
+      <pattern>Y VOS *</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
     <category> 
-      <pattern>* Y TU</pattern>
+      <pattern>* Y VOS</pattern>
       <template> 
-        <srai>Y TÚ</srai>
+        <srai>Y VOS</srai>
       </template>
     </category>
 	<category> 
