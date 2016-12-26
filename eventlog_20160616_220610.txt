@@ -1,0 +1,10 @@
+Loading in AIML files. 
+Read in AIML: C:\Users\Patelo\Downloads\sara-spanish-aiml\sara.aiml
+  # of categories = 148
+Loading in AIML files. 
+Read in AIML: C:\Users\Patelo\Downloads\sara-spanish-aiml\sara_srai.aiml
+  # of categories = 1701
+Loading in AIML files. 
+Read in AIML: C:\Users\Patelo\Downloads\sara-spanish-aiml\sara_srai.aiml
+  # of categories = 1701
+
