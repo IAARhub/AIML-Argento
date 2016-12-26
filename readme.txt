@@ -1,9 +1,12 @@
 SARA - Sistema Artificial de Respuestas Automáticas (Artificial System of Automatic Responses)
 
 Version 0.2 - March 15th 2006
+Versión Traducción 0.1 - Dic 26th 2016
 
 
-AIML files created by Adam Codony aka XGargoyle
+
+AIML creado por Adam Codony alias XGargoyle
+Traducción al español rioplatense por Patricio Gerpe
 
 
 About Sara
