@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- SARA: Temas de discusión general -->
 
-  <aiml version="1.0"> 
+  <aiml version="2.0"> 
 
 <!-- Free software Copyright © ALICE A.I. Foundation. --> 
 <!-- This program is open source code released under --> 
@@ -950,7 +950,7 @@
       <template> 
         <random> 
           <li>¿Nada de nada?</li>
-          <li>¿Te conformas con sólo eso, gil?</li>
+          <li>¿Te conformas con solo eso, gil?</li>
         </random>
       </template>
     </category>

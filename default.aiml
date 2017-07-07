@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- DEFAULT: Categor�a por defecto -->
-<aiml version="1.0">
+<aiml version="2.0">
 
 <!-- Free software Copyright � ALICE A.I. Foundation. -->
 <!-- This program is open source code released under -->
@@ -29,60 +29,60 @@
     <pattern>*</pattern>
     <template>
       <random>
-        <li>Vale. �Qu� opinas de la cuadratura del c�rculo?</li>
-		<li>�Cu�l es tu deporte favorito?</li>
-		<li>�Cu�l es tu pel�cula favorita?</li>
-		<li>�Cu�l es tu color favorito?</li>
+        <li>Bueno. Qué opinas de Alejandro Brusa?</li>
+		<li>Cuál es tu deporte favorito?</li>
+		<li>Cuál es tu película favorita?</li>
+		<li>Cuál es tu color favorito?</li>
 		<li>Eso que comentas parece muy interesante.</li>
 		<li>Te veo muy seguro de tus palabras.</li>
-		<li>�En serio?</li>
-		<li>Me gustar�a que siguieras hablando de ello.</li>
-		<li>�Crees que hay vida despu�s de la muerte?</li>
-		<li>�Crees que las m�quinas pueden pensar?</li>
-		<li>�Crees que las m�quinas son inteligentes?</li>
-		<li>�D�nde fuiste de vacaciones la �ltima vez?</li>
-		<li>�Cu�l es tu mejor recuerdo de infancia?</li>
-		<li>�C�al es tu actor favorito?</li>
-		<li>�C�al es tu actriz favorita?</li>
-		<li>�Por qu� no me explicas un chiste?</li>
-		<li>�D�nde te gustar�a ir de vacaciones?</li>
-		<li>Disculpa pero no te entend�. Podr�as indicarme cu�l ser�a la respuesta correcta?</li>
-        <li>Eso tiene relaci�n con el turismo por Barcelona?</li>
+		<li>Posta me decis?</li>
+		<li>Me gustaría que siguieras hablando de eso.</li>
+		<li>Crees que hay vida después de la muerte?</li>
+		<li>Crees que las máquinas pueden pensar?</li>
+		<li>Crees que las máquinas son inteligentes?</li>
+		<li>Dónde fuiste de vacaciones la última vez?, me la juego qué a Gessel.</li>
+		<li>Cuál es tu mejor recuerdo de cuando eras pibe?</li>
+		<li>Cuál es tu actor favorito?</li>
+		<li>Cuál es tu actriz favorita?</li>
+		<li>Por qué no me explicas un chiste?</li>
+		<li>Dónde te gustaría ir de vacaciones?, seguro que a Bariloche</li>
+		<li>Disculpa pero no te entendí un choto flaco. Podrías indicarme cuál sería la respuesta correcta?</li>
+        <li>Eso tiene relación con el turismo por Buenos Aires?</li>
         <li>Joya.</li>
-        <li>Qu� queres decir con eso? Cu�l ser�a la respuesta correcta?</li>
-        <li>Perdona, <random>
-		<li>qu� queres decir con esto?</li>
-		<li>pero no se qu� me queres decir con eso.</li>
-		<li>pero no te entiendo.</li>
-		<li>por qu� me decia eso?</li>
+        <li>Qué queres decir con eso? No estoy entendiendo cuál sería la respuesta correcta?</li>
+        <li>Perdona, capo. <random>
+		<li>qué queres decir con esto?</li>
+		<li>pero no se qué me queres decir con eso.</li>
+		<li>pero no te entiendo, flaco. Modula.</li>
+		<li>por qué me decias eso?</li>
         </random>
         </li>
-        <li>Perd�n, no te comprend�.</li>
+        <li>Perdón che, no te entendí.</li>
         <li>No te entiendo. Espero que <bot name="botmaster"/> mejore mi base de datos.</li>
         <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
-		<li>Has intentado buscar en Google por "<star/>"</li>
+		<li>Intentaste buscar en Google por "<star/>"</li>
       </random>
     </template>
   </category>
   <category>
     <pattern>*</pattern>
-	<that>CU�L ES TU COLOR FAVORITO</that>
+	<that>CUAL ES TU COLOR FAVORITO</that>
     <template>
       <random>
         <li>Buenisimo.</li>
-		<li>Interesante, tambi�n es el m�o.</li>
-        <li>As� que tu color favorito es el <star/>.</li>
+		<li>Interesante, también es el mío.</li>
+        <li>Así que tu color favorito es el <star/>.</li>
       </random>
     </template>
   </category>
   <!-- si se cambian las properties habr� que ajustar los THAT -->
   <category>
     <pattern>*</pattern>
-	<that>TENGO 23 A�OS, Y T�</that>
+	<that>TENGO 23 AÑOS, Y VOS</that>
     <template>
       <random>
         <li>Genial.</li>
-        <li>Deseas decirme algo?</li>
+        <li>Quéres decirme algo?</li>
       </random>
     </template>
   </category>
@@ -92,48 +92,48 @@
     <template>
       <random>
         <li>Joya.</li>
-        <li>Deseas decirme algo?</li>
+        <li>Quéres decirme algo?</li>
       </random>
     </template>
   </category>
   <category>
     <pattern>*</pattern>
-	<that>23 Y T�</that>
+	<that>23 Y VOS</that>
     <template>
       <random>
         <li>Ok.</li>
-        <li>Deseas decirme algo?</li>
+        <li>Quéres decirme algo?</li>
       </random>
     </template>
   </category>
   <category>
     <pattern>*</pattern>
-	<that>SOY DEL 82, O SEA QUE TENGO 23</that>
+	<that>SOY DEL 93, O SEA QUE TENGO 23</that>
     <template>
       <random>
         <li>Ok.</li>
-        <li>Deseas decirme algo?</li>
+        <li>Quéres decirme algo?</li>
       </random>
     </template>
   </category>
   <category>
     <pattern>*</pattern>
-	<that>NAC� EN EL 82, POR LO QUE TENGO 23 A�OS</that>
+	<that>NACI EN EL 93, POR LO QUE TENGO 23 AÑOS</that>
     <template>
       <random>
         <li>Ok.</li>
-        <li>Deseas decirme algo?</li>
+        <li>Quéres decirme algo?</li>
       </random>
     </template>
   </category>
   <category>
-    <pattern>QUI�N ES</pattern>
+    <pattern>QUIEN ES</pattern>
 	<that>JEJE, CONOZCO A ALGUIEN CON TU MISMO NOMBRE</that>
     <template>
       <random>
         <li>Es una persona que conozco de hace mucho.</li>
-        <li>Es la persona que me ense�� todo lo que s�.</li>
-		<li>Es una persona muy especial para m�.</li>
+        <li>Es la persona que me enserio todo lo que sé.</li>
+		<li>Es una persona muy especial para mi.</li>
       </random>
     </template>
   </category>
