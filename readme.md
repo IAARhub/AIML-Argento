@@ -1,5 +1,5 @@
 # SARA - Sistema Artificial de Respuestas Automáticas (Artificial System of Automatic Responses)
-## VERSION ARGENTINA
+### VERSION ARGENTINA
 
 Version 0.2 - March 15th 2006
 Versión Traducción 0.3 - 20.07.2017
@@ -7,7 +7,7 @@ Versión Traducción 0.3 - 20.07.2017
 
 ### Sobre Sara
 
-Sara es un agente de chat creado por Adam Codony, como un prototipo funcional para el proyecto de graduación en Multimedia en la Universitat Politècnica de Catalunya (UPC)
+Sara es un agente de chat creado por Adam Codony, como un prototipo funcional para el proyecto de graduación en Multimedia en la Universitat Politècnica de Catalunya (UPC). 
 
 ### Creditos:
 AIML creado por Adam Codony alias XGargoyle
@@ -15,7 +15,7 @@ Traducción al español rioplatense por Patricio Gerpe
 
 
 ## Editando AIML
-Para editar AIML podes usar editores especializados tales como el "Simple AIML Editor", disponible en el siguiente link:
+Para editar AIML podes usar editores especializados tales como el "GaitoBot" o el "Simple AIML Editor", disponible en el siguiente link:
 * Gaitobot https://www.gaitobot.de/gaitobot/AIMLEditor/download.aspx
 * Simple AIML Editor: http://riotsw.com/sae.html
 
